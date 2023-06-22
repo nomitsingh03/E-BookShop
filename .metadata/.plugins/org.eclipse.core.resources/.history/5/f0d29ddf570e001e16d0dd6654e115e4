@@ -1,0 +1,26 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Helpline</title>
+<%@include file="Required/CSSandSCRIPT.jsp"%>
+</head>
+<body style="background-color: #e5e5e5;">
+	<%@include file="Required/navbar.jsp"%>
+	<div class="container">
+		<div class="row p-5 d-flex justify-content-center align-items-center">
+			<div class="col-md-4 text-center">
+			<div class="text-primary text-center">
+				<i class="fa-solid fa-circle-user fa-3x"></i>
+				</div>
+				<h3>24*7 Service</h3>
+				<h4><i class="fa-solid fa-phone text-info"></i>Helpline Number: <span class="fs-5">+91 9807540326</span> </h4>
+				
+				<h5><i class="fa-solid fa-envelope text-info"></i>Email : kitaben@gmail.comg</h5>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

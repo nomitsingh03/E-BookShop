@@ -1,0 +1,9 @@
+package com.DAO;
+
+public class BookOrderDATA implements BookOrderDao {
+
+	public BookOrderDATA() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

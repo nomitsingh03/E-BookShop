@@ -1,0 +1,9 @@
+package com.entity;
+
+public class BookOrder {
+
+	public BookOrder() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

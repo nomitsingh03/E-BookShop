@@ -1,0 +1,484 @@
+
+May 18, 2023 18:03:15.315 NEW SESSION
+May 18, 2023 18:03:15.317 [3876:32824:0518/180315.314:ERROR:device_event_log_impl.cc(222)] [18:03:15.315] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 18, 2023 18:18:25.698 [3876:25196:0518/181825.698:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 18, 2023 18:18:42.848 [3876:32824:0518/181842.186:ERROR:device_event_log_impl.cc(222)] [18:18:42.183] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 18, 2023 19:19:36.446 [19972:22716:0518/191936.445:ERROR:device_event_log_impl.cc(222)] [19:19:36.445] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 18, 2023 19:40:27.812 [19972:21844:0518/194027.812:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 18, 2023 20:03:59.462 [19972:21844:0518/200359.461:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 18, 2023 20:06:01.740 [12256:33516:0518/200601.740:ERROR:device_event_log_impl.cc(222)] [20:06:01.739] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 18, 2023 20:21:01.828 [12256:31604:0518/202101.828:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 18, 2023 21:15:06.626 [12256:31604:0518/211506.625:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 18, 2023 21:15:07.940 [12256:33516:0518/211507.345:ERROR:device_event_log_impl.cc(222)] [21:15:07.246] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 18, 2023 21:15:09.141 [12256:31604:0518/211509.140:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 18, 2023 21:25:03.06 [12256:31604:0518/212503.006:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 18, 2023 21:34:56.701 [20364:14736:0518/213456.700:ERROR:device_event_log_impl.cc(222)] [21:34:56.700] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 18, 2023 21:54:13.174 [20364:1880:0518/215413.174:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 18, 2023 22:21:26.401 [20364:1880:0518/222126.386:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+May 18, 2023 22:25:02.278 [20364:1880:0518/222502.278:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 18, 2023 23:24:07.356 [20364:1880:0518/232407.356:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 18, 2023 23:39:40.341 [28100:35412:0518/233940.340:ERROR:device_event_log_impl.cc(222)] [23:39:40.340] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 18, 2023 23:55:30.897 [28100:31112:0518/235530.897:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+May 19, 2023 21:39:04.138 NEW SESSION
+May 19, 2023 21:39:04.138 [16476:25764:0519/213904.133:ERROR:device_event_log_impl.cc(222)] [21:39:04.133] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 19, 2023 22:00:16.82 [16476:25912:0519/220016.081:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+May 20, 2023 19:50:40.306 NEW SESSION
+May 20, 2023 19:50:40.306 [22748:15356:0520/195040.304:ERROR:device_event_log_impl.cc(222)] [19:50:40.303] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 20, 2023 22:18:26.537 [22748:15224:0520/221826.528:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+May 21, 2023 17:41:42.367 NEW SESSION
+May 21, 2023 17:41:42.369 [25964:7776:0521/174142.363:ERROR:device_event_log_impl.cc(222)] [17:41:42.363] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 21, 2023 18:11:03.508 [25964:11840:0521/181103.508:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 21, 2023 19:08:37.967 [25964:11840:0521/190837.966:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 21, 2023 19:34:05.209 [25964:11840:0521/193405.208:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 21, 2023 19:34:06.268 [25964:7776:0521/193406.134:ERROR:device_event_log_impl.cc(222)] [19:34:06.133] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 21, 2023 19:34:06.270 [25964:7776:0521/193406.159:ERROR:device_event_log_impl.cc(222)] [19:34:06.158] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 21, 2023 20:01:08.118 [25964:11840:0521/200108.118:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 21, 2023 20:03:35.237 [25964:11840:0521/200335.236:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 21, 2023 20:04:01.137 [25964:11840:0521/200401.136:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 21, 2023 20:07:16.682 [25964:11840:0521/200716.682:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 21, 2023 21:27:47.306 [25964:11840:0521/212747.305:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 21, 2023 21:27:49.327 [25964:11840:0521/212749.326:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 21, 2023 21:28:44.559 [25964:11840:0521/212844.557:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 21, 2023 21:29:07.449 [25964:11840:0521/212907.449:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 21, 2023 21:39:40.32 [8032:26352:0521/213940.032:ERROR:device_event_log_impl.cc(222)] [21:39:40.032] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 21, 2023 21:58:15.297 [8032:28260:0521/215815.297:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 21, 2023 22:05:27.855 [8032:28260:0521/220527.855:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+May 21, 2023 22:10:13.601 [8032:28260:0521/221013.600:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+May 22, 2023 16:53:03.34 NEW SESSION
+May 22, 2023 16:53:03.34 [22316:12392:0522/165303.031:ERROR:device_event_log_impl.cc(222)] [16:53:03.030] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 22, 2023 16:54:15.988 [12864:18292:0522/165415.988:ERROR:device_event_log_impl.cc(222)] [16:54:15.986] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 22, 2023 16:54:37.987 [5840:3208:0522/165437.987:ERROR:device_event_log_impl.cc(222)] [16:54:37.987] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 22, 2023 17:22:10.479 [5840:27416:0522/172210.479:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 22, 2023 17:22:29.994 [5840:3208:0522/172229.994:ERROR:device_event_log_impl.cc(222)] [17:22:29.979] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 22, 2023 17:22:30.64 [5840:3208:0522/172230.064:ERROR:device_event_log_impl.cc(222)] [17:22:30.054] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 22, 2023 17:22:30.104 [5840:3208:0522/172230.104:ERROR:device_event_log_impl.cc(222)] [17:22:30.097] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 22, 2023 17:22:30.104 [5840:3208:0522/172230.104:ERROR:device_event_log_impl.cc(222)] [17:22:30.103] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 22, 2023 17:26:44.133 [5840:3208:0522/172644.131:ERROR:gpu_process_host.cc(953)] GPU process exited unexpectedly: exit_code=34
+May 22, 2023 17:36:22.361 [5840:27416:0522/173622.361:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 22, 2023 17:44:14.59 [5840:27416:0522/174414.059:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+May 22, 2023 18:58:02.419 [5840:27416:0522/185802.419:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 22, 2023 21:18:38.513 [14188:5384:0522/211838.513:ERROR:device_event_log_impl.cc(222)] [21:18:38.513] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 22, 2023 22:39:07.321 [14188:27956:0522/223907.318:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 22, 2023 22:46:54.909 [14188:27956:0522/224654.908:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 22, 2023 23:26:11.871 [4496:16064:0522/232611.871:ERROR:device_event_log_impl.cc(222)] [23:26:11.871] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+May 24, 2023 23:34:48.794 NEW SESSION
+May 24, 2023 23:34:48.794 [20168:23040:0524/233448.792:ERROR:device_event_log_impl.cc(222)] [23:34:48.792] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 24, 2023 23:41:55.213 [19692:18824:0524/234155.211:ERROR:device_event_log_impl.cc(222)] [23:41:55.212] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 24, 2023 23:54:15.476 [19692:28724:0524/235415.476:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 25, 2023 24:07:03.995 [19692:18824:0525/000703.995:ERROR:device_event_log_impl.cc(222)] [00:07:03.783] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 25, 2023 24:24:56.974 [29392:15228:0525/002456.974:ERROR:device_event_log_impl.cc(222)] [00:24:56.975] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 25, 2023 24:54:38.374 [19764:26764:0525/005438.374:ERROR:device_event_log_impl.cc(222)] [00:54:38.373] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 25, 2023 01:13:18.815 [15504:2444:0525/011318.815:ERROR:device_event_log_impl.cc(222)] [01:13:18.814] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+May 25, 2023 19:35:54.868 NEW SESSION
+May 25, 2023 19:35:54.869 [2284:20160:0525/193554.866:ERROR:device_event_log_impl.cc(222)] [19:35:54.866] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 25, 2023 21:00:41.194 [2284:4604:0525/210041.194:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 25, 2023 21:02:09.600 [29868:24516:0525/210209.600:ERROR:device_event_log_impl.cc(222)] [21:02:09.599] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 25, 2023 21:03:59.442 [29868:13324:0525/210359.442:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 25, 2023 21:04:27.104 [29868:13324:0525/210427.104:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 25, 2023 21:05:14.883 [29868:13324:0525/210514.883:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 25, 2023 21:06:55.103 [29868:13324:0525/210655.103:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 25, 2023 21:07:14.267 [29868:24516:0525/210714.266:ERROR:device_event_log_impl.cc(222)] [21:07:14.265] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 25, 2023 21:07:31.729 [29868:13324:0525/210731.729:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 25, 2023 21:13:57.561 [29868:13324:0525/211357.561:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 25, 2023 21:14:36.667 [19620:28384:0525/211436.666:ERROR:device_event_log_impl.cc(222)] [21:14:36.666] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 25, 2023 21:14:37.58 [19620:19480:0525/211437.057:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 25, 2023 21:14:38.883 [19620:28384:0525/211438.883:ERROR:device_event_log_impl.cc(222)] [21:14:38.884] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 25, 2023 21:14:39.478 [19620:19480:0525/211439.478:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+May 27, 2023 12:12:03.714 NEW SESSION
+May 27, 2023 12:12:03.714 [24536:6620:0527/121203.711:ERROR:device_event_log_impl.cc(222)] [12:12:03.711] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 27, 2023 12:26:33.63 [14052:12408:0527/122633.062:ERROR:device_event_log_impl.cc(222)] [12:26:33.062] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 27, 2023 13:02:58.191 [23064:15628:0527/130258.190:ERROR:device_event_log_impl.cc(222)] [13:02:58.190] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 27, 2023 13:15:34.571 [23064:2820:0527/131534.570:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 27, 2023 13:18:37.515 [23064:15628:0527/131837.292:ERROR:device_event_log_impl.cc(222)] [13:18:37.287] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 27, 2023 13:22:55.131 [22460:13904:0527/132255.130:ERROR:device_event_log_impl.cc(222)] [13:22:55.130] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 27, 2023 13:55:15.360 [22460:16296:0527/135515.359:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+May 27, 2023 19:46:58.290 NEW SESSION
+May 27, 2023 19:46:58.290 [11820:1172:0527/194658.288:ERROR:device_event_log_impl.cc(222)] [19:46:58.288] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 27, 2023 20:37:45.403 [11820:12180:0527/203745.403:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+May 27, 2023 22:53:22.821 NEW SESSION
+May 27, 2023 22:53:22.821 [27688:27508:0527/225322.819:ERROR:device_event_log_impl.cc(222)] [22:53:22.818] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 27, 2023 23:06:50.953 [18164:28452:0527/230650.953:ERROR:device_event_log_impl.cc(222)] [23:06:50.953] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 02, 2023 18:25:53.831 NEW SESSION
+Jun 02, 2023 18:25:53.831 [22336:4924:0602/182553.827:ERROR:device_event_log_impl.cc(222)] [18:25:53.827] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 02, 2023 20:31:54.878 NEW SESSION
+Jun 02, 2023 20:31:54.878 [18984:20636:0602/203154.877:ERROR:device_event_log_impl.cc(222)] [20:31:54.876] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 02, 2023 21:09:39.366 [19492:15996:0602/210939.366:ERROR:device_event_log_impl.cc(222)] [21:09:39.365] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 03, 2023 13:51:27.253 NEW SESSION
+Jun 03, 2023 13:51:27.254 [5132:1128:0603/135127.252:ERROR:device_event_log_impl.cc(222)] [13:51:27.251] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 03, 2023 14:16:15.681 [5132:26008:0603/141615.680:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 03, 2023 14:18:32.681 [5132:26008:0603/141832.680:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jun 03, 2023 22:35:40.33 NEW SESSION
+Jun 03, 2023 22:35:40.33 [2816:19124:0603/223540.026:ERROR:device_event_log_impl.cc(222)] [22:35:40.025] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 03, 2023 22:35:59.324 [2816:11184:0603/223559.322:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 03, 2023 22:37:05.651 [2816:11184:0603/223705.651:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 03, 2023 22:37:11.786 [2816:19124:0603/223711.779:ERROR:device_event_log_impl.cc(222)] [22:37:11.781] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 03, 2023 22:37:27.405 [2816:26280:0603/223727.405:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 03, 2023 22:37:50.769 [2816:26280:0603/223750.769:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 03, 2023 22:38:34.491 [2816:11184:0603/223834.491:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Jun 04, 2023 02:44:55.454 NEW SESSION
+Jun 04, 2023 02:44:55.454 [2536:11664:0604/024455.450:ERROR:device_event_log_impl.cc(222)] [02:44:55.451] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 04, 2023 02:45:16.560 [2536:13072:0604/024516.560:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 04, 2023 02:46:53.360 [2536:13072:0604/024653.360:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 04, 2023 02:49:07.230 [2536:13072:0604/024907.229:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 04, 2023 02:54:09.879 [2536:13072:0604/025409.879:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 04, 2023 03:04:31.298 [2536:13072:0604/030431.297:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 04, 2023 03:13:30.126 [2536:27040:0604/031330.125:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 04, 2023 03:14:52.664 [2536:13072:0604/031452.663:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 04, 2023 03:17:54.02 [2536:15200:0604/031754.001:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 04, 2023 03:25:14.116 [2536:13072:0604/032514.115:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 04, 2023 03:35:35.526 [2536:13072:0604/033535.526:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 04, 2023 03:45:56.929 [2536:13072:0604/034556.927:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Jun 05, 2023 16:58:31.784 NEW SESSION
+Jun 05, 2023 16:58:31.784 [5484:21216:0605/165831.783:ERROR:device_event_log_impl.cc(222)] [16:58:31.783] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 05, 2023 16:58:51.509 [5484:14136:0605/165851.509:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 05, 2023 16:59:58.769 [5484:14136:0605/165958.769:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 05, 2023 17:02:01.513 [5484:18588:0605/170201.513:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 05, 2023 17:02:01.513 [5484:14136:0605/170201.513:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 05, 2023 17:08:55.962 [5484:5372:0605/170855.961:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 05, 2023 17:16:19.629 [5484:14136:0605/171619.629:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 05, 2023 17:26:41.503 [5484:14136:0605/172641.503:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 05, 2023 17:37:03.163 [5484:14136:0605/173703.163:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 05, 2023 17:40:57.178 [5484:18588:0605/174057.170:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 05, 2023 18:06:36.981 [5484:18588:0605/180636.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jun 05, 2023 18:48:07.894 [5484:21216:0605/184807.894:ERROR:interface_endpoint_client.cc(696)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 05, 2023 18:54:47.985 [2444:4552:0605/185447.985:ERROR:device_event_log_impl.cc(222)] [18:54:47.985] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 07, 2023 21:42:14.457 NEW SESSION
+Jun 07, 2023 21:42:14.457 [2488:3472:0607/214214.457:ERROR:device_event_log_impl.cc(222)] [21:42:14.460] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 07, 2023 21:42:14.498 [2488:15484:0607/214214.498:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 21:42:40.963 [2488:15484:0607/214240.963:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 21:42:45.636 [2488:3472:0607/214245.636:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 07, 2023 21:42:50.69 [2488:15484:0607/214250.069:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 21:44:42.476 [2488:15484:0607/214442.474:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 21:47:23.735 [2488:15484:0607/214723.735:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 21:53:09.367 [2488:15484:0607/215309.367:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 22:15:22.442 [23640:17604:0607/221522.442:ERROR:device_event_log_impl.cc(222)] [22:15:22.442] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 07, 2023 22:15:22.472 [23640:10340:0607/221522.471:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 22:15:49.890 [23640:10340:0607/221549.887:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 22:16:42.157 [23640:10340:0607/221642.155:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 22:18:39.187 [23640:10340:0607/221839.186:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 22:22:01.296 [23640:10340:0607/222201.295:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 22:29:19.920 [23640:10340:0607/222919.919:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 22:39:19.934 [23640:10340:0607/223919.933:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 22:49:19.936 [23640:10340:0607/224919.934:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 23:02:47.107 [23640:10340:0607/230247.107:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2023 23:06:55.42 [23640:17604:0607/230655.041:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@1c828682b85bbc70230a48f5e345489ec447373e/&can_dock=true&panel=elements&targetType=tab (1)
+Jun 07, 2023 23:12:47.111 [23640:10340:0607/231247.109:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jun 09, 2023 16:57:53.119 NEW SESSION
+Jun 09, 2023 16:57:53.119 [21088:10248:0609/165753.117:ERROR:device_event_log_impl.cc(222)] [16:57:53.117] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 09, 2023 16:57:53.175 [21088:22060:0609/165753.175:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 16:58:15.615 [21088:22060:0609/165815.615:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 16:59:15.664 [21088:22060:0609/165915.664:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:01:00.576 [21088:22060:0609/170100.576:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:03:19.932 [21088:22060:0609/170319.931:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:03:30.937 [21088:22060:0609/170330.937:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 09, 2023 17:03:31.471 [21088:10248:0609/170331.471:ERROR:device_event_log_impl.cc(222)] [17:03:31.470] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 09, 2023 17:03:40.999 [21088:22060:0609/170340.999:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:03:43.426 [21088:22060:0609/170343.426:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:04:41.632 [21088:22060:0609/170441.631:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 09, 2023 17:05:49.444 [21088:22060:0609/170549.444:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:07:24.526 [20320:20032:0609/170724.525:ERROR:device_event_log_impl.cc(222)] [17:07:24.525] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 09, 2023 17:07:24.579 [20320:5748:0609/170724.579:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:07:51.38 [20320:5748:0609/170751.037:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:08:48.98 [20320:5748:0609/170848.097:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:10:19.244 [11016:13552:0609/171019.243:ERROR:device_event_log_impl.cc(222)] [17:10:19.243] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 09, 2023 17:10:19.278 [11016:16328:0609/171019.277:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:10:45.319 [11016:16328:0609/171045.319:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:11:34.211 [11016:16328:0609/171134.210:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:13:25.956 [11016:16328:0609/171325.956:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:16:41.683 [11016:16328:0609/171641.681:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:22:38.17 [11016:16328:0609/172238.016:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 17:24:50.720 [11016:16328:0609/172450.720:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jun 09, 2023 19:20:51.565 NEW SESSION
+Jun 09, 2023 19:20:51.566 [24936:18260:0609/192051.564:ERROR:device_event_log_impl.cc(222)] [19:20:51.564] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 09, 2023 19:20:51.635 [24936:17992:0609/192051.634:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 09, 2023 19:20:51.636 [24936:17992:0609/192051.635:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 09, 2023 19:21:14.117 [24936:17992:0609/192114.117:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 09, 2023 19:21:20.839 [24936:17992:0609/192120.837:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 09, 2023 19:22:12.343 [24936:17992:0609/192212.343:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 09, 2023 19:22:12.564 [24936:17992:0609/192212.564:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 09, 2023 19:23:47.601 [24936:17992:0609/192347.600:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 09, 2023 19:24:00.884 [24936:17992:0609/192400.883:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 09, 2023 19:26:41.39 [24936:17992:0609/192641.038:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 09, 2023 19:27:45.178 [24936:17992:0609/192745.177:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 09, 2023 19:33:23.101 [24936:17992:0609/193323.101:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 09, 2023 19:33:48.339 [24936:17992:0609/193348.339:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 09, 2023 19:51:09.890 [24936:17992:0609/195109.888:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 09, 2023 20:04:47.894 [24936:17992:0609/200447.893:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 09, 2023 20:08:00.110 [24936:17992:0609/200800.109:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 09, 2023 20:08:03.374 [24936:17992:0609/200803.373:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jun 10, 2023 12:11:53.298 NEW SESSION
+Jun 10, 2023 12:11:53.298 [12452:19048:0610/121153.295:ERROR:device_event_log_impl.cc(222)] [12:11:53.295] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 10, 2023 12:11:53.452 [12452:11792:0610/121153.451:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 12:12:22.247 [12452:11792:0610/121222.246:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 12:12:26.856 [12452:19048:0610/121226.855:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 10, 2023 12:13:19.342 [12452:11792:0610/121319.342:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 12:14:43.710 [12452:11792:0610/121443.710:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 12:17:37.721 [12452:11792:0610/121737.721:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 12:24:37.753 [12452:11792:0610/122437.752:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 12:34:37.760 [12452:11792:0610/123437.758:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 12:44:37.765 [12452:11792:0610/124437.764:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 12:54:37.773 [12452:11792:0610/125437.773:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 12:55:05.946 [12452:19048:0610/125505.944:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@1c828682b85bbc70230a48f5e345489ec447373e/&can_dock=true&panel=elements&targetType=tab (1)
+Jun 10, 2023 13:03:43.375 [12452:19048:0610/130343.375:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@1c828682b85bbc70230a48f5e345489ec447373e/&can_dock=true&panel=elements&targetType=tab (1)
+Jun 10, 2023 13:04:37.793 [12452:11792:0610/130437.792:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 13:09:03.897 [12452:11792:0610/130903.896:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 13:19:03.901 [12452:11792:0610/131903.900:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 13:23:53.868 [12452:19048:0610/132353.868:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@1c828682b85bbc70230a48f5e345489ec447373e/&can_dock=true&panel=elements&targetType=tab (1)
+Jun 10, 2023 13:29:03.915 [12452:11792:0610/132903.915:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 13:38:32.643 [9616:25572:0610/133832.643:ERROR:device_event_log_impl.cc(222)] [13:38:32.643] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 10, 2023 13:38:32.670 [9616:2564:0610/133832.670:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 13:39:01.416 [9616:2564:0610/133901.416:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 13:39:48.454 [9616:2564:0610/133948.453:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 13:41:25.166 [9616:2564:0610/134125.165:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 13:44:40.777 [9616:2564:0610/134440.776:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jun 10, 2023 19:12:52.362 NEW SESSION
+Jun 10, 2023 19:12:52.362 [3648:19604:0610/191252.360:ERROR:device_event_log_impl.cc(222)] [19:12:52.360] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 10, 2023 19:12:52.422 [3648:13260:0610/191252.421:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:13:13.05 [3648:13260:0610/191313.004:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:14:01.870 [3648:13260:0610/191401.869:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:15:56.880 [3648:13260:0610/191556.879:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:19:24.626 [3648:13260:0610/191924.626:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:26:26.292 [3648:13260:0610/192626.292:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:36:26.303 [3648:13260:0610/193626.302:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:43:19.128 [10932:20396:0610/194319.127:ERROR:device_event_log_impl.cc(222)] [19:43:19.128] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 10, 2023 19:43:19.158 [10932:14600:0610/194319.156:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:43:43.643 [10932:14600:0610/194343.643:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:44:35.815 [10932:14600:0610/194435.815:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:46:03.589 [10932:14600:0610/194603.588:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:48:55.369 [10932:14600:0610/194855.369:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:55:10.939 [10932:14600:0610/195510.938:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 10, 2023 19:57:07.191 [10932:14600:0610/195707.187:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 20:07:07.197 [10932:14600:0610/200707.197:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 20:17:07.207 [10932:14600:0610/201707.207:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 20:25:13.707 [10932:20396:0610/202513.707:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@1c828682b85bbc70230a48f5e345489ec447373e/&can_dock=true&panel=elements&targetType=tab (1)
+Jun 10, 2023 20:27:07.224 [10932:14600:0610/202707.223:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 20:30:05.547 [10932:20396:0610/203005.546:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@1c828682b85bbc70230a48f5e345489ec447373e/&can_dock=true&panel=elements&targetType=tab (1)
+Jun 10, 2023 20:37:07.229 [10932:14600:0610/203707.229:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 20:47:07.233 [10932:14600:0610/204707.231:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 20:57:07.235 [10932:14600:0610/205707.234:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 10, 2023 21:07:07.244 [10932:14600:0610/210707.243:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jun 11, 2023 12:01:10.521 NEW SESSION
+Jun 11, 2023 12:01:10.521 [15848:7632:0611/120110.519:ERROR:device_event_log_impl.cc(222)] [12:01:10.518] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 11, 2023 12:01:10.563 [15848:4616:0611/120110.562:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 12:01:12.215 [15848:4616:0611/120112.214:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 12:01:37.781 [15848:4616:0611/120137.780:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 12:01:38.780 [15848:4616:0611/120138.779:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 12:02:21.56 [15848:4616:0611/120221.056:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 12:02:22.361 [15848:4616:0611/120222.361:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 12:03:41.963 [15848:4616:0611/120341.962:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 12:03:51.936 [15848:4616:0611/120351.935:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 12:06:50.174 [15848:4616:0611/120650.172:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 12:06:52.930 [15848:4616:0611/120652.930:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 12:12:24.899 [15848:7632:0611/121224.899:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 11, 2023 12:13:30.602 [15848:4616:0611/121330.602:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 12:13:56.628 [15848:4616:0611/121356.628:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 12:13:56.629 [15848:7632:0611/121356.628:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 11, 2023 12:18:48.677 [15848:4616:0611/121848.677:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 12:19:13.740 [15848:4616:0611/121913.740:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 12:20:02.174 [15848:4616:0611/122002.174:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 12:21:34.870 [15848:4616:0611/122134.870:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 12:23:30.600 [15848:4616:0611/122330.600:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 12:24:20.377 [15848:4616:0611/122420.377:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+
+Jun 11, 2023 21:45:51.58 NEW SESSION
+Jun 11, 2023 21:45:51.58 [23864:34156:0611/214551.056:ERROR:device_event_log_impl.cc(222)] [21:45:51.056] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 11, 2023 21:45:51.185 [23864:16144:0611/214551.184:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 21:45:51.186 [23864:16144:0611/214551.185:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 21:46:11.782 [23864:16144:0611/214611.781:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 21:46:18.672 [23864:16144:0611/214618.671:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 21:47:01.246 [23864:16144:0611/214701.246:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 21:47:06.148 [23864:16144:0611/214706.148:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 21:48:57.176 [23864:16144:0611/214857.176:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 21:49:04.256 [23864:16144:0611/214904.255:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 21:52:04.705 [23864:16144:0611/215204.705:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 21:52:26.137 [23864:16144:0611/215226.137:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 21:58:34.163 [23864:16144:0611/215834.162:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 21:59:43.465 [23864:16144:0611/215943.465:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 21:59:43.466 [23864:34156:0611/215943.465:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 11, 2023 22:01:05.953 [23864:34156:0611/220105.952:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@1c828682b85bbc70230a48f5e345489ec447373e/&can_dock=true&panel=elements&targetType=tab (1)
+Jun 11, 2023 22:04:34.693 [23864:16144:0611/220434.693:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 22:04:57.482 [23864:16144:0611/220457.482:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 22:14:14.225 [23864:16144:0611/221414.225:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 11, 2023 22:14:14.763 [23864:16144:0611/221414.225:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 11, 2023 22:15:48.847 [23864:16144:0611/221548.846:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+
+Jun 12, 2023 14:10:10.326 NEW SESSION
+Jun 12, 2023 14:10:10.326 [21024:9712:0612/141010.322:ERROR:device_event_log_impl.cc(222)] [14:10:10.322] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 12, 2023 14:10:10.524 [21024:20688:0612/141010.523:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 14:10:12.528 [21024:20688:0612/141012.526:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:10:34.612 [21024:20688:0612/141034.611:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:10:39.905 [21024:20688:0612/141039.904:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 14:10:43.393 [21024:9712:0612/141043.392:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 12, 2023 14:11:20.286 [21024:20688:0612/141120.285:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 14:11:23.753 [21024:20688:0612/141123.752:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:13:03.478 [21024:20688:0612/141303.477:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:13:14.349 [21024:20688:0612/141314.348:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 14:16:20.366 [21024:20688:0612/141620.365:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 14:16:27.18 [21024:20688:0612/141627.017:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:22:04.151 [21024:20688:0612/142204.149:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:22:04.152 [21024:9712:0612/142204.149:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 12, 2023 14:22:07.255 [21024:20688:0612/142207.254:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 14:26:41.644 [21024:20688:0612/142641.642:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:27:06.187 [21024:20688:0612/142706.187:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:27:56.989 [21024:20688:0612/142756.988:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:29:48.170 [21024:20688:0612/142948.169:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:32:07.259 [21024:20688:0612/143207.257:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 14:32:56.191 [21024:20688:0612/143256.190:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:40:45.576 [21024:20688:0612/144045.575:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:40:45.577 [21024:9712:0612/144045.576:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 12, 2023 14:42:07.261 [21024:20688:0612/144207.259:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 14:50:18.376 [21024:20688:0612/145018.375:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:50:48.345 [21024:20688:0612/145048.344:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:51:38.198 [21024:20688:0612/145138.197:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:52:07.276 [21024:20688:0612/145207.275:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 14:53:26.83 [21024:20688:0612/145326.081:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 14:56:13.543 [21024:20688:0612/145613.542:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:02:07.278 [21024:20688:0612/150207.278:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 15:02:34.997 [21024:20688:0612/150234.997:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:02:34.997 [21024:9712:0612/150234.997:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 12, 2023 15:06:16.629 [15104:31656:0612/150616.628:ERROR:device_event_log_impl.cc(222)] [15:06:16.628] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 12, 2023 15:06:16.663 [15104:5388:0612/150616.663:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 15:06:16.663 [15104:5388:0612/150616.663:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:06:40.28 [15104:5388:0612/150640.028:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:06:40.475 [15104:5388:0612/150640.475:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 15:07:26.369 [15104:5388:0612/150726.368:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 15:07:38.720 [15104:5388:0612/150738.719:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:08:50.274 [11868:15480:0612/150850.274:ERROR:device_event_log_impl.cc(222)] [15:08:50.274] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 12, 2023 15:08:50.312 [11868:6332:0612/150850.312:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 15:08:50.313 [11868:6332:0612/150850.312:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:09:17.897 [11868:6332:0612/150917.896:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 15:09:19.983 [11868:6332:0612/150919.983:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:10:10.916 [11868:6332:0612/151010.915:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:10:15.351 [11868:6332:0612/151015.351:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 15:12:04.867 [11868:6332:0612/151204.865:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 15:12:07.853 [11868:6332:0612/151207.853:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:15:42.48 [11868:6332:0612/151542.047:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:15:51.675 [11868:6332:0612/151551.674:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 15:21:27.890 [11868:6332:0612/152127.889:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:21:27.891 [11868:15480:0612/152127.890:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 12, 2023 15:23:22.827 [11868:6332:0612/152322.827:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 12, 2023 15:26:23.702 [11868:6332:0612/152623.702:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 12, 2023 15:26:53.194 [11868:6332:0612/152653.192:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+
+Jun 15, 2023 21:14:36.143 NEW SESSION
+Jun 15, 2023 21:14:36.143 [5868:5836:0615/211436.141:ERROR:device_event_log_impl.cc(222)] [21:14:36.141] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 15, 2023 21:14:46.948 [5868:5836:0615/211446.946:ERROR:device_event_log_impl.cc(222)] [21:14:46.947] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 15, 2023 21:18:17.654 [8536:14972:0615/211817.654:ERROR:device_event_log_impl.cc(222)] [21:18:17.654] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 15, 2023 21:25:00.404 [8536:12952:0615/212500.404:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2023 21:25:28.851 [8536:12952:0615/212528.851:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2023 21:26:12.445 [8536:12952:0615/212612.445:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2023 21:26:54.945 [8536:12952:0615/212654.945:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 15, 2023 21:26:56.954 [8536:12952:0615/212656.953:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2023 21:27:14.813 [8536:12952:0615/212714.812:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 15, 2023 21:27:16.781 [8536:12952:0615/212716.780:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2023 21:27:33.841 [8536:12952:0615/212733.840:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 15, 2023 21:27:35.868 [8536:12952:0615/212735.867:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2023 21:28:10.395 [8536:12952:0615/212810.394:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Jun 15, 2023 21:49:57.999 [8536:12952:0615/214957.998:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 15, 2023 22:07:33.41 [8536:12952:0615/220733.041:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 15, 2023 22:12:14.610 [8536:12952:0615/221214.609:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Jun 15, 2023 22:12:16.623 [8536:12952:0615/221216.622:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2023 22:13:11.652 [8536:12952:0615/221311.651:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 15, 2023 22:15:05.429 [8536:12952:0615/221505.429:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jun 17, 2023 07:10:09.918 NEW SESSION
+Jun 17, 2023 07:10:09.918 [21632:21908:0617/071009.918:ERROR:device_event_log_impl.cc(222)] [07:10:09.913] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 17, 2023 07:11:47.768 [21632:21908:0617/071147.767:ERROR:device_event_log_impl.cc(222)] [07:11:47.767] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 17, 2023 07:38:11.553 [21632:10620:0617/073811.543:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 17, 2023 08:40:17.745 [21632:10620:0617/084017.744:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 17, 2023 08:52:14.498 [16416:4292:0617/085214.498:ERROR:device_event_log_impl.cc(222)] [08:52:14.499] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 17, 2023 09:36:45.44 [16416:21308:0617/093645.044:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 17, 2023 10:52:13.919 [16416:21308:0617/105213.919:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jun 18, 2023 15:44:13.19 NEW SESSION
+Jun 18, 2023 15:44:13.19 [22208:2956:0618/154413.016:ERROR:device_event_log_impl.cc(222)] [15:44:13.016] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 18, 2023 23:06:26.81 NEW SESSION
+Jun 18, 2023 23:06:26.81 [19936:3124:0618/230626.078:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+Jun 18, 2023 23:06:26.127 Opening in existing browser session.
+Jun 18, 2023 23:06:26.437 [19936:16044:0618/230626.436:ERROR:disk_cache.cc(205)] Unable to create cache
+Jun 18, 2023 23:06:26.437 [19936:16044:0618/230626.436:ERROR:gpu_disk_cache.cc(673)] Gpu Cache Creation failed: -2
+Jun 18, 2023 23:06:28.737 [19936:16044:0618/230628.737:ERROR:device_event_log_impl.cc(222)] [23:06:28.734] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 19, 2023 09:03:38.319 NEW SESSION
+Jun 19, 2023 09:03:38.321 [24884:18252:0619/090338.316:ERROR:device_event_log_impl.cc(222)] [09:03:38.316] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 19, 2023 11:07:46.77 NEW SESSION
+Jun 19, 2023 11:07:46.77 [3508:22976:0619/110746.069:ERROR:device_event_log_impl.cc(222)] [11:07:46.070] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 19, 2023 18:30:42.387 NEW SESSION
+Jun 19, 2023 18:30:42.387 [12756:11444:0619/183042.384:ERROR:device_event_log_impl.cc(222)] [18:30:42.384] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 19, 2023 18:31:02.30 [12756:11444:0619/183102.029:ERROR:device_event_log_impl.cc(222)] [18:31:02.028] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 19, 2023 18:37:40.966 [12756:10248:0619/183740.966:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jun 19, 2023 20:26:38.53 NEW SESSION
+Jun 19, 2023 20:26:38.53 [8948:27512:0619/202638.052:ERROR:device_event_log_impl.cc(222)] [20:26:38.052] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 19, 2023 21:36:54.250 [16920:29460:0619/213654.249:ERROR:device_event_log_impl.cc(222)] [21:36:54.249] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 19, 2023 21:45:50.988 [21552:28584:0619/214550.987:ERROR:device_event_log_impl.cc(222)] [21:45:50.988] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 20, 2023 15:44:46.683 NEW SESSION
+Jun 20, 2023 15:44:46.683 [7220:15968:0620/154446.680:ERROR:device_event_log_impl.cc(222)] [15:44:46.679] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 20, 2023 15:53:59.915 [7220:9668:0620/155359.914:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 15:54:33.373 [7220:9668:0620/155433.371:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 15:55:29.297 [7220:9668:0620/155529.297:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 15:57:07.494 [7220:9668:0620/155707.494:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 16:56:23.38 [7220:9668:0620/165623.035:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 20, 2023 17:12:33.58 [7220:9668:0620/171233.057:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 20, 2023 17:24:09.434 [7220:15968:0620/172409.124:ERROR:device_event_log_impl.cc(222)] [17:24:09.124] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 20, 2023 17:24:09.438 [7220:15968:0620/172409.154:ERROR:device_event_log_impl.cc(222)] [17:24:09.154] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 20, 2023 17:24:34.137 [7220:9668:0620/172434.136:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jun 20, 2023 23:47:18.890 NEW SESSION
+Jun 20, 2023 23:47:18.890 [10972:27940:0620/234718.887:ERROR:device_event_log_impl.cc(222)] [23:47:18.886] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 21, 2023 24:02:41.568 [10972:9344:0621/000241.565:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 21, 2023 24:03:15.920 [10972:9344:0621/000315.920:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 21, 2023 24:04:04.603 [10972:9344:0621/000404.603:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 21, 2023 24:04:22.706 [10972:9344:0621/000422.706:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 21, 2023 24:04:24.738 [10972:9344:0621/000424.737:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 21, 2023 24:04:43.19 [10972:9344:0621/000443.019:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 21, 2023 24:04:45.901 [10972:9344:0621/000445.901:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 21, 2023 24:04:58.13 [10972:9344:0621/000458.013:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 21, 2023 24:05:00.495 [10972:9344:0621/000500.495:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 21, 2023 24:05:20.226 [10972:9344:0621/000520.218:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jun 21, 2023 14:56:27.600 NEW SESSION
+Jun 21, 2023 14:56:27.600 [22588:10340:0621/145627.596:ERROR:device_event_log_impl.cc(222)] [14:56:27.596] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 21, 2023 16:19:32.106 NEW SESSION
+Jun 21, 2023 16:19:32.106 [5268:12112:0621/161932.103:ERROR:device_event_log_impl.cc(222)] [16:19:32.104] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 21, 2023 16:36:18.119 [5268:13820:0621/163618.119:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 21, 2023 16:50:08.865 [5268:13820:0621/165008.864:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 21, 2023 16:53:50.424 [5268:13820:0621/165350.423:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 21, 2023 17:17:06.51 [2772:20160:0621/171706.051:ERROR:device_event_log_impl.cc(222)] [17:17:06.049] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 21, 2023 17:41:34.747 [2772:17156:0621/174134.747:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 21, 2023 17:41:42.324 [2772:17156:0621/174142.324:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 21, 2023 17:57:20.218 [2772:20160:0621/175720.217:ERROR:device_event_log_impl.cc(222)] [17:57:20.117] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 21, 2023 17:57:24.213 [2772:17156:0621/175724.213:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 21, 2023 18:12:49.543 [2772:17156:0621/181249.540:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 21, 2023 18:38:51.117 [2772:17156:0621/183851.115:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 21, 2023 19:32:30.651 [2772:17156:0621/193230.651:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jun 21, 2023 19:53:33.428 [2772:17156:0621/195333.428:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jun 22, 2023 11:51:54.538 NEW SESSION
+Jun 22, 2023 11:51:54.538 [17220:26032:0622/115154.535:ERROR:device_event_log_impl.cc(222)] [11:51:54.535] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)

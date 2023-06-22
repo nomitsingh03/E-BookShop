@@ -1,0 +1,44 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@page isELIgnored="false"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Old Book</title>
+<%@include file="Required/CSSandSCRIPT.jsp"%>
+</head>
+<body style="background-color: #e5e5e5">
+<%@include file="Required/navbar.jsp"%>
+<div class="container">
+		<div class="row p-5">
+				<div class="card bg-white">
+					<div class="card-body">
+						<h3 class="text-success text-center">Your Selected Item</h3>
+						<table class="table table-striped"">
+							<thead>
+								<tr>
+									<th scope="col">Book Name</th>
+									<th scope="col">Author</th>
+									<th scope="col">Price</th>
+									<th scope="col">Delete</th>
+								</tr>
+							</thead>
+
+							<tbody>
+							<tr>
+									<th scope="row"><%-- <%=c.getBookName()%> --%></th>
+									<td><%-- <%=c.getAuthor()%> --%></td>
+									<td><%-- <%=c.getPrice()%> --%></td>
+									<td><a href="remove_old_book?bid=<%=c.getBookId()%>&&uid=<%=c.getUserId()%>%>"
+										class="btn btn-sm btn-danger">Delete</a></td>
+								</tr>
+								
+						</table>
+					</div>
+				</div>
+			</div>
+			</div>
+</body>
+</html>

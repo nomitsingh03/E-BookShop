@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=E-Book/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.DAO{UserDAO.java[UserDAO" modifiers="513" timestamp="1687192801353"/>
+    <typeInfo handle="=E-Book/C:\/Users\/singh\/Downloads\/software\/eclipse-jee\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/=/maven.pomderived=/true=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1684344044802"/>
+    <typeInfo handle="=E-Book/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.DAO{BookDAO.java[BookDAO" modifiers="513" timestamp="1687189668949"/>
+    <typeInfo handle="=E-Book/C:\/Users\/singh\/eclipse-workspace\/Ebook\/apache-tomcat-10.0.27\/lib\/servlet-api.jar=/javadoc_location=/https:\/\/jakarta.ee\/specifications\/servlet\/5.0\/apidocs\/=/=/owner.project.facets=/jst.web=/&lt;jakarta.servlet.http(HttpServlet.class[HttpServlet" modifiers="1057" timestamp="1685714665432"/>
+    <typeInfo handle="=E-Book/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.DAO{BookOrderDao.java[BookOrderDao" modifiers="513" timestamp="1687274260943"/>
+</typeInfoHistroy>
