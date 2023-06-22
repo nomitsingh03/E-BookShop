@@ -1,7 +1,0 @@
-package com.DAO;
-
-public interface BookOrderDao {
-
-	private Connection conn;
-	public int getOrder() {
-}
